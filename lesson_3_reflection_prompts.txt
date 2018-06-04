@@ -22,9 +22,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    disscuss about every changes
+    Disscuss about every changes
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    To do something experimentally.
+    Change in master make thing easier, adding a new branch help us work with others more efficiently
