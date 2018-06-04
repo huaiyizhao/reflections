@@ -16,6 +16,8 @@ want to try some new features. to keep my changes while reserving the old versio
 
 How do the diagrams help you visualize the branch structure?
 
+by showing every commit in every branch
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
