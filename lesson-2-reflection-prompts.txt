@@ -21,5 +21,8 @@ by showing every commit in every branch
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+remain the same, delete the line which one deleted, add the line which one added
+they come across in the end
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
